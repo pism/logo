@@ -13,34 +13,20 @@ The hex codes of the logo colors are:
 
 The underlying font is `Apple SD Gothic Neo` (version 13.0d1e9), using font weights heavy and bold.
 
-## Full logo versions
+## Logo versions
 
-- [png/pism_logo_transp.png](png/pism_logo_transp.png)
-
-![](png/pism_logo_transp.png)
-
-- [png/pism_logo_white_square.png](png/pism_logo_white_square.png)
-
-![](png/pism_logo_white_square.png)
-
-- [png/pism_logo_transp_oneline.png](png/pism_logo_transp_oneline.png)
-
-![](png/pism_logo_transp_oneline.png)
-
-- [png/pism_logo_transp_oneline_grey.png](png/pism_logo_transp_oneline_grey.png)
-
-![](png/pism_logo_transp_oneline_grey.png)
-
-## Favicon / avatar versions
-
-- [png/pism_logo_favicon_transp_small.png](png/pism_logo_favicon_transp_small.png)
-
-![](png/pism_logo_favicon_transp_small.png)
-
-- [png/pism_logo_favicon_transp_large.png](png/pism_logo_favicon_transp_large.png)
-
-![](png/pism_logo_favicon_transp_large.png)
-
-- [png/pism_logo_favicon_white_square.png](png/pism_logo_favicon_white_square.png)
-
-![](png/pism_logo_favicon_white_square.png)
+| Full logo versions                                                                |                                                                                          |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ![](png/pism_logo_transp.png)                                                     | [png/pism_logo_transp.png](png/pism_logo_transp.png)                                     |
+| ![](png/pism_logo_transp_basecolor.png)                                           | [png/pism_logo_transp_basecolor.png](png/pism_logo_transp_basecolor.png)                 |
+| **Square versions**                                                               |                                                                                          |
+| ![](png/pism_logo_white_square.png)                                               | [png/pism_logo_white_square.png](png/pism_logo_white_square.png)                         |
+| ![](png/pism_logo_white_square_basecolor.png)                                     | [png/pism_logo_white_square_basecolor.png](png/pism_logo_white_square_basecolor.png)     |
+| **One-line versions**                                                             |                                                                                          |
+| ![](png/pism_logo_transp_oneline.png)                                             | [png/pism_logo_transp_oneline.png](png/pism_logo_transp_oneline.png)                     |
+| ![](png/pism_logo_transp_oneline_basecolor.png)                                   | [png/pism_logo_transp_oneline_basecolor.png](png/pism_logo_transp_oneline_basecolor.png) |
+| ![](png/pism_logo_transp_oneline_grey.png)                                        | [png/pism_logo_transp_oneline_grey.png](png/pism_logo_transp_oneline_grey.png)           |
+| **Favicon / avatar versions**                                                     |                                                                                          |
+| ![](png/pism_logo_favicon_transp_large.png)                                       | [png/pism_logo_favicon_transp_large.png](png/pism_logo_favicon_transp_large.png)         |
+| ![](png/pism_logo_favicon_transp_small.png)                                       | [png/pism_logo_favicon_transp_small.png](png/pism_logo_favicon_transp_small.png)         |
+| ![](png/pism_logo_favicon_white_square.png)                                       | [png/pism_logo_favicon_white_square.png](png/pism_logo_favicon_white_square.png)         |
