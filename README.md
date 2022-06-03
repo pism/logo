@@ -6,10 +6,10 @@ This repository contains the PISM logo.
 
 The hex codes of the logo colors are:
 
-- ![#216778](https://via.placeholder.com/15.png/216778?text=+) `#216778` (theme base color)
-- ![#2f93ac](https://via.placeholder.com/15.png/2f93ac?text=+) `#2f93ac`
-- ![#43b1cb](https://via.placeholder.com/15.png/43b1cb?text=+) `#43b1cb`
-- ![#84cedc](https://via.placeholder.com/15.png/84cedc?text=+) `#84cedc`
+- ![#216778](https://dummyimage.com/15x15/216778/000000.png&text=+) `#216778` (theme base color)
+- ![#2f93ac](https://dummyimage.com/15x15/2f93ac/000000.png&text=+) `#2f93ac`
+- ![#43b1cb](https://dummyimage.com/15x15/43b1cb/000000.png&text=+) `#43b1cb`
+- ![#84cedc](https://dummyimage.com/15x15/84cedc/000000.png&text=+) `#84cedc`
 
 The underlying font is `Apple SD Gothic Neo` (version 13.0d1e9), using font weights heavy and bold.
 
